@@ -1,0 +1,10 @@
+Solutions to submit to Free Code Camp:
+
+-Create a Stack Class:
+add solutions that DO NOT incorporate native methods
+
+-Create a Map Data structure
+(has no solution at present)
+
+-create an es6 javascript map
+(has no solution)
