@@ -1,3 +1,6 @@
+//This file contains sorting algorithms as well as data structures
+
+
 //Bubble sort
 //best case: quadratic time complexity
 
@@ -408,5 +411,35 @@ console.log(myMap)
 
 
 //Hashtables
+//provides efficient O(n) lookup time
+
+//actually, hashtables in JS very complicated. Return to it later.
+
+//Implement a Linked List
+//A linked list is a linear collection of data elements, called "nodes",
+//each of which points to the next.
+//each node contains two key pieces of information:
+//the element itself, and a reference to the next node.
+
+var Node = function(element) {
+  this.element = element;
+  this.next = null;
+};
+var Kitten = new Node('Kitten');
+var Puppy = new Node('Puppy');
+var Cat = new Node('Cat');
+var Dog = new Node('Dog');
+
+Kitten.next = Puppy;
+Puppy.next = Cat;
+Cat.next = Dog;
+
+// test your code
+console.log(Kitten.next);
+console.log(Cat.next);
+
+//Create a Linked List class
+//return to tomorrow
+
 
 
