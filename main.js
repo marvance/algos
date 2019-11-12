@@ -443,3 +443,20 @@ console.log(Cat.next);
 
 
 
+
+//fizzBuzz!!
+
+function sort(a,b){
+  return a-b;
+}
+
+function fizzBuzz(a,b) {
+  sort(a,b)
+
+}
+// .....never mind
+
+
+
+
+
