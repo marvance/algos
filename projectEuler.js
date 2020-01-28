@@ -51,3 +51,19 @@ function findEvenSum(n){
 
 findEvenSum(18)
 
+
+//Largest Prime Factor
+function findLargestPrimeFactor(n){
+  let prime = 2,
+    max = 1;
+  while (prime <= number){
+    if(number % prime == 0) {
+      max = prime;
+      number = number / prime;
+    } else prime++;
+  }
+  return max;
+}
+
+findLargestPrimeFactor(13195)
+
