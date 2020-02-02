@@ -8,3 +8,16 @@ add solutions that DO NOT incorporate native methods
 
 -create an es6 javascript map
 (has no solution)
+
+
+Advice from Pathrise Interview:
+
+4 Components to Tech interviews:
+
+1. Communication
+
+2. Problem Solving: do you know Time complexities, etc?
+
+3. Coding: are you familiar with your main language, inside and out?
+
+4. Verification: do you proactively look for potential bugs and edge cases?
